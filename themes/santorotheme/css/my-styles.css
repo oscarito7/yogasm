@@ -28,7 +28,9 @@ VARIABLES
   --breakpoint-l: 1067px; /*para que así las imagenes sean como mucho de alta 600 en relacion 16:9*/
   --breakpoint-xl: 1440px;
 }
-
+.oscar{
+  font-size: 15px;
+}
 .session-variable {
   position: relative;
   top: 5rem;
