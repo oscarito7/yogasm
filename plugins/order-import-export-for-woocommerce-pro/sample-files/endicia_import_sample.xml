@@ -1,0 +1,52 @@
+<DAZzleLog Account='601225' Name='Joe Customer' Phone='(650) 555-2640' Email='joe@companyname.com'>
+    <Record ID="261">
+        <Account>601225</Account>
+        <DeviceID>071V00601225</DeviceID>
+        <AccountName> Joe Customer </AccountName>
+        <TransactionID>12289</TransactionID>
+        <TransactionDateTime>09/06/2006 10:24 AM</TransactionDateTime>
+        <Status>Success</Status>
+        <TransactionType>08</TransactionType>
+        <AccountBalance>40,627.302</AccountBalance>
+        <PostmarkDateTime>09/06/2006</PostmarkDateTime>
+        <ToAddress>DAVID Recipient, 15021 NE 31st St, Vancouver, WA 98682-8302</ToAddress>
+        <ToPostalCode>98682830221</ToPostalCode>
+        <FinalPostage>1.73</FinalPostage>
+        <MailClass>Package, Media Mail</MailClass>
+        <Services USPSTracking= 'ON'></Services>
+        <WeightOz>16</WeightOz>
+        <PIC>9102148008600000012345</PIC>
+        <Description>AOB 290014164666-370802792</Description>
+        <Value>0.00</Value>
+        <CostCenter>0</CostCenter>
+        <Insurance>NONE</Insurance>
+        <ReplyPostage>NO</ReplyPostage>
+        <Reprinted>NO</Reprinted>
+        <CustomsContentType>4</CustomsContentType>
+    </Record>
+    <Record ID="2644">
+        <Account>601225</Account>
+        <DeviceID>071V00601225</DeviceID>
+        <AccountName> Joe Customer </AccountName>
+        <TransactionID>12289</TransactionID>
+        <TransactionDateTime>09/06/2006 10:24 AM</TransactionDateTime>
+        <Status>Success</Status>
+        <TransactionType>08</TransactionType>
+        <AccountBalance>40,627.302</AccountBalance>
+        <PostmarkDateTime>09/06/2006</PostmarkDateTime>
+        <ToAddress>DAVID Recipient, 15021 NE 31st St, Vancouver, WA 98682-8302</ToAddress>
+        <ToPostalCode>98682830221</ToPostalCode>
+        <FinalPostage>1.73</FinalPostage>
+        <MailClass>Package, Media Mail</MailClass>
+        <Services USPSTracking= 'ON'></Services>
+        <WeightOz>16</WeightOz>
+        <PIC>9102148008600000012345</PIC>
+        <Description>AOB 290014164666-370802792</Description>
+        <Value>0.00</Value>
+        <CostCenter>0</CostCenter>
+        <Insurance>NONE</Insurance>
+        <ReplyPostage>NO</ReplyPostage>
+        <Reprinted>NO</Reprinted>
+        <CustomsContentType>4</CustomsContentType>
+    </Record>
+</DAZzleLog>

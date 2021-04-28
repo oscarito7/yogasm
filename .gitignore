@@ -1,0 +1,12 @@
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
+!wp-content/index.php/
+wp-content/plugins/hello.php
+wp-content/themes/twenty*/
+node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite

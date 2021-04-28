@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Print xmlns="http://www.fedex.com/fsmapi">
+ <Item>
+  <RequestHeader>
+   <CustomerTransactionIdentifier>US Ship</CustomerTransactionIdentifier>
+   <AccountNumber>12356789</AccountNumber>
+   <MeterNumber>1234567</MeterNumber>
+   <CarrierCode>FDXE</CarrierCode>
+  </RequestHeader>
+  <ShipDate>2016-07-15 09:24:00</ShipDate>
+  <ShipTime></ShipTime>
+  <DropoffType>REGULARPICKUP</DropoffType>
+  <Service>PRIORITYOVERNIGHT</Service>
+  <Packaging>FEDEXBOC\X</Packaging>
+  <WeightUnits/>
+  <Weight>0</Weight>
+  <Origin>
+   <Contact>
+    <PersonName>amit patra</PersonName>
+    <CompanyName></CompanyName>
+    <Department></Department>
+    <PhoneNumber>9732491064</PhoneNumber>
+    <PagerNumber></PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>bangalore</Line1>
+    <Line2></Line2>
+    <City>bangalore</City>
+    <StateOrProvinceCode>KA</StateOrProvinceCode>
+    <PostalCode>700016</PostalCode>
+    <CountryCode>IN</CountryCode>
+   </Address>
+  </Origin>
+  <Destination>
+   <Contact>
+    <PersonName>test KR</PersonName>
+    <CompanyName>TEST</CompanyName>
+    <Department></Department>
+    <PhoneNumber>test KR</PhoneNumber>
+    <PagerNumber>80147</PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>KGP1</Line1>
+    <Line2>kgp2</Line2>
+    <City>testCity</City>
+    <StateOrProvinceCode>ffd</StateOrProvinceCode>
+    <PostalCode>47910</PostalCode>
+    <CountryCode>AF</CountryCode>
+   </Address>
+  </Destination>
+  <Payment>
+   <PayorType>SENDER</PayorType>
+  </Payment>
+  <ReferenceInfo>
+   <CustomerReference>OrderId: 116 CustomerId: 0</CustomerReference>
+  </ReferenceInfo>
+  <Label>
+   <Type>2DCOMMON</Type>
+   <ImageType>PNG</ImageType>
+  </Label>
+ </Item>
+ <Item>
+  <RequestHeader>
+   <CustomerTransactionIdentifier>US Ship</CustomerTransactionIdentifier>
+   <AccountNumber>12356789</AccountNumber>
+   <MeterNumber>1234567</MeterNumber>
+   <CarrierCode>FDXE</CarrierCode>
+  </RequestHeader>
+  <ShipDate>2016-07-11 10:07:41</ShipDate>
+  <ShipTime></ShipTime>
+  <DropoffType>REGULARPICKUP</DropoffType>
+  <Service>PRIORITYOVERNIGHT</Service>
+  <Packaging>FEDEXBOC\X</Packaging>
+  <WeightUnits/>
+  <Weight>1</Weight>
+  <Origin>
+   <Contact>
+    <PersonName>amit patra</PersonName>
+    <CompanyName></CompanyName>
+    <Department></Department>
+    <PhoneNumber>9732491064</PhoneNumber>
+    <PagerNumber></PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>bangalore</Line1>
+    <Line2></Line2>
+    <City>bangalore</City>
+    <StateOrProvinceCode>KA</StateOrProvinceCode>
+    <PostalCode>700016</PostalCode>
+    <CountryCode>IN</CountryCode>
+   </Address>
+  </Origin>
+  <Destination>
+   <Contact>
+    <PersonName>amit patra</PersonName>
+    <CompanyName></CompanyName>
+    <Department></Department>
+    <PhoneNumber>amit patra</PhoneNumber>
+    <PagerNumber>9732491064</PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>bangalore</Line1>
+    <Line2></Line2>
+    <City>bangalore</City>
+    <StateOrProvinceCode>KA</StateOrProvinceCode>
+    <PostalCode>700016</PostalCode>
+    <CountryCode>IN</CountryCode>
+   </Address>
+  </Destination>
+  <Payment>
+   <PayorType>SENDER</PayorType>
+  </Payment>
+  <ReferenceInfo>
+   <CustomerReference>OrderId: 114 CustomerId: 1</CustomerReference>
+  </ReferenceInfo>
+  <Label>
+   <Type>2DCOMMON</Type>
+   <ImageType>PNG</ImageType>
+  </Label>
+ </Item>
+ <Item>
+  <RequestHeader>
+   <CustomerTransactionIdentifier>US Ship</CustomerTransactionIdentifier>
+   <AccountNumber>12356789</AccountNumber>
+   <MeterNumber>1234567</MeterNumber>
+   <CarrierCode>FDXE</CarrierCode>
+  </RequestHeader>
+  <ShipDate>2016-07-11 10:06:13</ShipDate>
+  <ShipTime></ShipTime>
+  <DropoffType>REGULARPICKUP</DropoffType>
+  <Service>PRIORITYOVERNIGHT</Service>
+  <Packaging>FEDEXBOC\X</Packaging>
+  <WeightUnits/>
+  <Weight>1</Weight>
+  <Origin>
+   <Contact>
+    <PersonName>amit patra</PersonName>
+    <CompanyName></CompanyName>
+    <Department></Department>
+    <PhoneNumber>9732491064</PhoneNumber>
+    <PagerNumber></PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>bangalore</Line1>
+    <Line2></Line2>
+    <City>bangalore</City>
+    <StateOrProvinceCode>KA</StateOrProvinceCode>
+    <PostalCode>700016</PostalCode>
+    <CountryCode>IN</CountryCode>
+   </Address>
+  </Origin>
+  <Destination>
+   <Contact>
+    <PersonName>amit patra</PersonName>
+    <CompanyName></CompanyName>
+    <Department></Department>
+    <PhoneNumber>amit patra</PhoneNumber>
+    <PagerNumber>9732491064</PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>bangalore</Line1>
+    <Line2></Line2>
+    <City>bangalore</City>
+    <StateOrProvinceCode>KA</StateOrProvinceCode>
+    <PostalCode>700016</PostalCode>
+    <CountryCode>IN</CountryCode>
+   </Address>
+  </Destination>
+  <Payment>
+   <PayorType>SENDER</PayorType>
+  </Payment>
+  <ReferenceInfo>
+   <CustomerReference>OrderId: 113 CustomerId: 1</CustomerReference>
+  </ReferenceInfo>
+  <Label>
+   <Type>2DCOMMON</Type>
+   <ImageType>PNG</ImageType>
+  </Label>
+ </Item>
+ <Item>
+  <RequestHeader>
+   <CustomerTransactionIdentifier>US Ship</CustomerTransactionIdentifier>
+   <AccountNumber>12356789</AccountNumber>
+   <MeterNumber>1234567</MeterNumber>
+   <CarrierCode>FDXE</CarrierCode>
+  </RequestHeader>
+  <ShipDate>2016-07-11 06:38:47</ShipDate>
+  <ShipTime></ShipTime>
+  <DropoffType>REGULARPICKUP</DropoffType>
+  <Service>PRIORITYOVERNIGHT</Service>
+  <Packaging>FEDEXBOC\X</Packaging>
+  <WeightUnits/>
+  <Weight>0</Weight>
+  <Origin>
+   <Contact>
+    <PersonName>amit patra</PersonName>
+    <CompanyName></CompanyName>
+    <Department></Department>
+    <PhoneNumber>9732491064</PhoneNumber>
+    <PagerNumber></PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>bangalore</Line1>
+    <Line2></Line2>
+    <City>bangalore</City>
+    <StateOrProvinceCode>KA</StateOrProvinceCode>
+    <PostalCode>700016</PostalCode>
+    <CountryCode>IN</CountryCode>
+   </Address>
+  </Origin>
+  <Destination>
+   <Contact>
+    <PersonName>amit patra</PersonName>
+    <CompanyName></CompanyName>
+    <Department></Department>
+    <PhoneNumber>amit patra</PhoneNumber>
+    <PagerNumber>9732491064</PagerNumber>
+    <FaxNumber></FaxNumber>
+    <E-MailAddress>amit@wooforce.com</E-MailAddress>
+   </Contact>
+   <Address>
+    <Line1>bangalore</Line1>
+    <Line2></Line2>
+    <City>bangalore</City>
+    <StateOrProvinceCode>KA</StateOrProvinceCode>
+    <PostalCode>700016</PostalCode>
+    <CountryCode>IN</CountryCode>
+   </Address>
+  </Destination>
+  <Payment>
+   <PayorType>SENDER</PayorType>
+  </Payment>
+  <ReferenceInfo>
+   <CustomerReference>OrderId: 112 CustomerId: 1</CustomerReference>
+  </ReferenceInfo>
+  <Label>
+   <Type>2DCOMMON</Type>
+   <ImageType>PNG</ImageType>
+  </Label>
+ </Item>
+</Print>

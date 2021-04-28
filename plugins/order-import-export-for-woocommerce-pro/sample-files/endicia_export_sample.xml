@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Print>
+	<Item>
+		<DAZzle PartnerID="A1B2" AutoClose="NO" OutputFile="C:\DAZZLE sample.XML" Start="PRINTING" Test="NO" Prompt="YES" Layout="c:\Users\Public\Documents\Endicia\DAZzle\Dymo4XL Label.lyt">
+			<Package ID="1">
+
+				<MailClass>PRIORITY</MailClass>
+
+				<DateAdvance>4</DateAdvance>
+
+				<PackageType>FLATRATEENVELOPE</PackageType>
+
+				<WeightOz>1</WeightOz>
+
+				<Width>0</Width>
+
+				<Length>0</Length>
+
+				<Depth>0</Depth>
+
+				<OversizeRate/>
+
+				<Services USPSTracking="OFF" CertifiedMail="OFF"/>
+
+				<Value>27</Value>
+
+				<Description>, Woo Single #2</Description>
+
+				<ReferenceID>114</ReferenceID>
+
+				<ToName>amit patra</ToName>
+
+				<ToAddress1>bangalore</ToAddress1>
+
+				<ToCity>bangalore</ToCity>
+
+				<ToState>KA</ToState>
+
+				<ToPostalCode>700016</ToPostalCode>
+
+				<ToEMail>amit@wooforce.com</ToEMail>
+			</Package>
+		</DAZzle>
+	</Item>
+
+</Print>

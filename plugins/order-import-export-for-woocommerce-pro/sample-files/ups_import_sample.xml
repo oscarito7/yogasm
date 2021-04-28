@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<OpenShipments xmlns="x-schema:OpenShipments.xdr">
+		<OrderID>160</OrderID>
+		<ReplyHeader>
+			<CustomerTransactionIdentifier>CTIString</CustomerTransactionIdentifier>
+		</ReplyHeader>
+		<EstimatedCharges>
+			<DimWeightUsed>false</DimWeightUsed>
+			<RateScale>01552</RateScale>
+			<RateZone>5</RateZone>
+			<CurrencyCode>USD</CurrencyCode>
+			<BilledWeight>10.0</BilledWeight>
+			<DiscountedCharges>
+				<BaseCharge>47.75</BaseCharge>
+				<TotalDiscount>0.00</TotalDiscount>
+				<Surcharges>
+					<Fuel>2.63</Fuel>
+					<Other>0.00</Other>
+				</Surcharges>
+				<TotalSurcharge>2.63</TotalSurcharge>
+				<NetCharge>50.38</NetCharge>
+				<TotalRebate>0.00</TotalRebate>
+			</DiscountedCharges>
+			<ListCharges>
+				<Surcharges>
+					<Fuel>2.63</Fuel>
+					<Other>0.00</Other>
+				</Surcharges>
+			</ListCharges>
+		</EstimatedCharges>
+</OpenShipments>

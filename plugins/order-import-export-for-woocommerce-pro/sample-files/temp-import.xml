@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+ <Order>
+  <OrderId>122452</OrderId>
+  <OrderNumber>122452</OrderNumber>
+  <OrderDate>2018-11-19 09:27:32</OrderDate>
+  <OrderStatus>processing</OrderStatus>
+  <CustomerEmail></CustomerEmail>
+  <BillingFirstName>Denis</BillingFirstName>
+  <BillingLastName>Laptev</BillingLastName>
+  <BillingFullName>Denis Laptev</BillingFullName>
+  <BillingCompany></BillingCompany>
+  <BillingAddress1>Moscow</BillingAddress1>
+  <BillingAddress2>Naples</BillingAddress2>
+  <BillingCity>Moscow</BillingCity>
+  <BillingState>Moscow</BillingState>
+  <BillingPostCode>1111111</BillingPostCode>
+  <BillingCountry>RU</BillingCountry>
+  <BillingPhone>74747474</BillingPhone>
+  <BillingEmail>test1@webtoffee.com</BillingEmail>
+  <ShippingFirstName>Denis</ShippingFirstName>
+  <ShippingLastName>Laptev</ShippingLastName>
+  <ShippingFullName>Denis Laptev</ShippingFullName>
+  <ShippingCompany></ShippingCompany>
+  <ShippingAddress1>Moscow</ShippingAddress1>
+  <ShippingAddress2>Naples</ShippingAddress2>
+  <ShippingCity>Moscow</ShippingCity>
+  <ShippingState>Moscow</ShippingState>
+  <ShippingPostCode>1111111</ShippingPostCode>
+  <ShippingCountry>RU</ShippingCountry>
+  <ShippingMethodId></ShippingMethodId>
+  <ShippingMethod></ShippingMethod>
+  <PaymentMethodId>cod</PaymentMethodId>
+  <PaymentMethod>Cash on delivery</PaymentMethod>
+  <OrderDiscountTotal>0</OrderDiscountTotal>
+  <CartDiscountTotal>0</CartDiscountTotal>
+  <DiscountTotal>0</DiscountTotal>
+  <ShippingTotal>0.00</ShippingTotal>
+  <ShippingTaxTotal></ShippingTaxTotal>
+  <OrderTotal>8.00</OrderTotal>
+  <RefundedTotal>0.00</RefundedTotal>
+  <FeeTotal>0</FeeTotal>
+  <TaxTotal>0</TaxTotal>
+  <Currency>USD</Currency>
+  <CompletedDate>2018-11-19 09:27:32</CompletedDate>
+  <CustomerNote></CustomerNote>
+  <CustomerId>0</CustomerId>
+  <OrderLineItems>
+   <OrderLineItem>
+    <SKU>A12</SKU>
+    <ExternalID>13</ExternalID>
+    <Name>Formal shoe</Name>
+    <Price>8</Price>
+    <Quantity>1</Quantity>
+    <Total>8.00</Total>
+   </OrderLineItem>
+  </OrderLineItems>
+ </Order>
+</Orders>

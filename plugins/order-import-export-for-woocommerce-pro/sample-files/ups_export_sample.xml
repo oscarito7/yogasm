@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?>
+<OpenShipments xmlns="x-schema:OpenShipments.xdr">
+  <OpenShipment ProcessStatus="" ShipmentOption="">
+    <ShipTo>
+      <CompanyOrName>Auto Import Receiver Company</CompanyOrName>
+      <Attention>Receiver</Attention>
+      <Address1>48 Bismark St.</Address1>
+      <CountryTerritory>US</CountryTerritory>
+      <PostalCode>07712</PostalCode>
+      <CityOrTown>Asbury Park</CityOrTown>
+      <StateProvinceCounty>NJ</StateProvinceCounty>
+      <Telephone>1234567891</Telephone>
+      <ReceiverUpsAccountNumber>123456</ReceiverUpsAccountNumber>
+    </ShipTo>
+    <ShipFrom>
+      <CompanyOrName>Shipper Company</CompanyOrName>
+      <Attention>Shipper</Attention>
+      <Address1>123 Main Street</Address1>
+      <CountryTerritory>US</CountryTerritory>
+      <PostalCode>59484</PostalCode>
+      <CityOrTown>Sweet Grass</CityOrTown>
+      <StateProvinceCounty>MT</StateProvinceCounty>
+      <Telephone>9876543211</Telephone>
+      <UpsAccountNumber>987622</UpsAccountNumber>
+    </ShipFrom>
+    <ShipmentInformation>
+      <ServiceType>1DA</ServiceType>
+      <DescriptionOfGoods>Cool Stuff</DescriptionOfGoods>
+      <GoodsNotInFreeCirculation>0</GoodsNotInFreeCirculation>
+      <BillTransportationTo> Shipper </BillTransportationTo>
+    </ShipmentInformation>
+    <Package>
+      <PackageType>CP</PackageType>
+      <Weight>15</Weight>
+      <Reference1>ABCD1234</Reference1>
+      <Length>10</Length>
+      <Width>15</Width>
+      <Height>8</Height>
+    </Package>
+  </OpenShipment>
+</OpenShipments>

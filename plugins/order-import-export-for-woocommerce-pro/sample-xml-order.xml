@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Orders>
+ <Order>
+  <order_id>736</order_id>
+  <order_number>736</order_number>
+  <order_date>2016-06-09 14:15:00</order_date>
+  <status>processing</status>
+  <shipping_total>213.28</shipping_total>
+  <shipping_tax_total>10.66</shipping_tax_total>
+  <fee_total>0.00</fee_total>
+  <fee_tax_total>0.00</fee_tax_total>
+  <tax_total>21.32</tax_total>
+  <cart_discount>3.00</cart_discount>
+  <order_discount>3.00</order_discount>
+  <discount_total>3.00</discount_total>
+  <order_total>532.94</order_total>
+  <refunded_total>0.00</refunded_total>
+  <order_currency>USD</order_currency>
+  <payment_method>cod</payment_method>
+  <shipping_method>Shipping</shipping_method>
+  <customer_id>3</customer_id>
+  <customer_user>3</customer_user>
+  <billing_first_name>Sam</billing_first_name>
+  <billing_last_name>Jerry</billing_last_name>
+  <billing_company>MEGASYSTEMS INC</billing_company>
+  <billing_email>info@wooforce.com</billing_email>
+  <billing_phone>8088379844</billing_phone>
+  <billing_address_1>SUITE 5A-120</billing_address_1>
+  <billing_address_2>799 E DRAGRAM</billing_address_2>
+  <billing_postcode>90001</billing_postcode>
+  <billing_city>San Francisco</billing_city>
+  <billing_state>CA</billing_state>
+  <billing_country>US</billing_country>
+  <shipping_first_name>Sam</shipping_first_name>
+  <shipping_last_name>Jerry</shipping_last_name>
+  <shipping_company>MEGASYSTEMS INC</shipping_company>
+  <shipping_address_1>SUITE 5A-120</shipping_address_1>
+  <shipping_address_2>799 E DRAGRAM</shipping_address_2>
+  <shipping_postcode>90001</shipping_postcode>
+  <shipping_city>San Francisco</shipping_city>
+  <shipping_state>CA</shipping_state>
+  <shipping_country>US</shipping_country>
+  <customer_note></customer_note>
+  <shipping_items>method:|total:213.28</shipping_items>
+  <fee_items></fee_items>
+  <tax_items>code:|total:21.32</tax_items>
+  <coupon_items>code:7272ll|description:|amount:3.00</coupon_items>
+  <order_notes>Payment to be made upon delivery. Order status changed from Pending Payment to Processing.</order_notes>
+  <download_permissions>0</download_permissions>
+  <line_item_1>name:Unknown Product|product_id:0|sku:|quantity:11|total:0.00|refunded:0.00|meta:meta=color=Red, tax=0.00|tax:</line_item_1>
+  <line_item_2>name:Unknown Product|product_id:0|sku:|quantity:198|total:0.00|refunded:0.00|meta:tax=0.00|tax:</line_item_2>
+  <line_item_3>name:Unknown Product|product_id:0|sku:|quantity:99|total:0.00|refunded:0.00|meta:tax=0.00|tax:</line_item_3>
+ </Order>
+ <Order>
+  <order_id>519</order_id>
+  <order_number>519</order_number>
+  <order_date>2016-04-22 07:40:00</order_date>
+  <status>processing</status>
+  <shipping_total>24.45</shipping_total>
+  <shipping_tax_total>0.00</shipping_tax_total>
+  <fee_total>0.00</fee_total>
+  <fee_tax_total>0.00</fee_tax_total>
+  <tax_total>0.00</tax_total>
+  <cart_discount>0.00</cart_discount>
+  <order_discount>0.00</order_discount>
+  <discount_total>0.00</discount_total>
+  <order_total>274.45</order_total>
+  <refunded_total>0.00</refunded_total>
+  <order_currency>USD</order_currency>
+  <payment_method>cod</payment_method>
+  <shipping_method>Shipping</shipping_method>
+  <customer_id>4</customer_id>
+  <customer_user>4</customer_user>
+  <billing_first_name>John</billing_first_name>
+  <billing_last_name>Smith</billing_last_name>
+  <billing_company>ABC</billing_company>
+  <billing_email>john@example.com</billing_email>
+  <billing_phone>123456789</billing_phone>
+  <billing_address_1>SUITE 5A-120</billing_address_1>
+  <billing_address_2>799 E DRAGRAM</billing_address_2>
+  <billing_postcode>98102</billing_postcode>
+  <billing_city>SEATTLE</billing_city>
+  <billing_state>WA</billing_state>
+  <billing_country>US</billing_country>
+  <shipping_first_name>John</shipping_first_name>
+  <shipping_last_name>Smith</shipping_last_name>
+  <shipping_company>ABC</shipping_company>
+  <shipping_address_1>SUITE 5A-120</shipping_address_1>
+  <shipping_address_2>799 E DRAGRAM</shipping_address_2>
+  <shipping_postcode>98102</shipping_postcode>
+  <shipping_city>SEATTLE</shipping_city>
+  <shipping_state>WA</shipping_state>
+  <shipping_country>US</shipping_country>
+  <customer_note></customer_note>
+  <shipping_items>method:|total:24.45</shipping_items>
+  <fee_items></fee_items>
+  <tax_items></tax_items>
+  <coupon_items></coupon_items>
+  <order_notes>Payment to be made upon delivery. Order status changed from Pending Payment to Processing.</order_notes>
+  <download_permissions>0</download_permissions>
+  <line_item_1>name:Unknown Product|product_id:0|sku:|quantity:100|total:0.00|refunded:0.00|meta:tax=0.00|tax:</line_item_1>
+  <line_item_2>name:Unknown Product|product_id:0|sku:|quantity:150|total:0.00|refunded:0.00|meta:tax=0.00|tax:</line_item_2>
+  <line_item_3></line_item_3>
+ </Order>
+</Orders>

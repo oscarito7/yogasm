@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Orders>
+  <Order>
+  <OrderId>2102</OrderId>
+  <OrderNumber>2102</OrderNumber>
+  <OrderDate>2016-08-01 09:47:41</OrderDate>
+  <OrderStatus>processing</OrderStatus>
+  <BillingFirstName>Geselle</BillingFirstName>
+  <BillingLastName>James</BillingLastName>
+  <BillingFullName>Geselle James</BillingFullName>
+  <BillingCompany>WForce</BillingCompany>
+  <BillingAddress1>200 Lincoln Ave</BillingAddress1>
+  <BillingAddress2></BillingAddress2>
+  <BillingCity>Salinas</BillingCity>
+  <BillingState>CA</BillingState>
+  <BillingPostCode>93901</BillingPostCode>
+  <BillingCountry>US</BillingCountry>
+  <BillingPhone>+1 888-422-2281</BillingPhone>
+  <BillingEmail>geselle@wooforce.com</BillingEmail>
+  <ShippingFirstName>Geselle</ShippingFirstName>
+  <ShippingLastName>James</ShippingLastName>
+  <ShippingFullName>Geselle James</ShippingFullName>
+  <ShippingCompany>WForce</ShippingCompany>
+  <ShippingAddress1>200 Lincoln Ave</ShippingAddress1>
+  <ShippingAddress2></ShippingAddress2>
+  <ShippingCity>Salinas</ShippingCity>
+  <ShippingState>CA</ShippingState>
+  <ShippingPostCode>93901</ShippingPostCode>
+  <ShippingCountry>US</ShippingCountry>
+  <ShippingMethodId>legacy_flat_rate</ShippingMethodId>
+  <ShippingMethod>Flat Rate</ShippingMethod>
+  <PaymentMethodId>cod</PaymentMethodId>
+  <PaymentMethod>Cash on Delivery</PaymentMethod>
+  <OrderDiscountTotal>0</OrderDiscountTotal>
+  <CartDiscountTotal>0</CartDiscountTotal>
+  <DiscountTotal>0</DiscountTotal>
+  <ShippingTotal>125</ShippingTotal>
+  <ShippingTaxTotal>0</ShippingTaxTotal>
+  <OrderTotal>140.8</OrderTotal>
+  <FeeTotal>0</FeeTotal>
+  <TaxTotal>0</TaxTotal>
+  <Currency>USD</Currency>
+  <CompletedDate>2016-08-01 09:47:41</CompletedDate>
+  <CustomerNote></CustomerNote>
+  <CustomerId>1</CustomerId>
+  <OrderLineItems>
+   <SKU>PWDR</SKU>
+   <ExternalID>158</ExternalID>
+   <Name>Compact Powder</Name>
+   <Price>5</Price>
+   <Quantity>1</Quantity>
+   <Total>5</Total>
+   <Meta></Meta>
+  </OrderLineItems>
+  <OrderLineItems>
+   <SKU>KJL</SKU>
+   <ExternalID>156</ExternalID>
+   <Name>Kajal</Name>
+   <Price>2.7</Price>
+   <Quantity>4</Quantity>
+   <Total>10.8</Total>
+   <Meta></Meta>
+  </OrderLineItems>
+ </Order>
+</Orders>
